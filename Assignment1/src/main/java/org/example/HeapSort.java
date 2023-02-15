@@ -1,3 +1,5 @@
+package org.example;
+
 public class HeapSort
 {
     public void sort(int arr[])
